@@ -1,4 +1,4 @@
-# Hi, I'm Poornima 👋
+# Hi, I'm Shobana Ananthan 👋
 
 ### Python Full Stack Developer | Django | Web Developer
 
