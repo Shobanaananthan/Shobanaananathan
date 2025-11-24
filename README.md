@@ -30,7 +30,7 @@ I'm a Python full stack developer building web applications with Django. I enjoy
 
 A full-stack travel booking app built with Django.
 **Features:** User auth, destination listing, package booking, admin panel, reviews.
-Repository: `https://github.com/YOUR_USERNAME/aps-holidays`
+Repository: `https://github.com/Shobanaananthan/aps-holidays`
 
 *(Replace above URL with your repo link and add more projects similarly.)*
 
